@@ -16,4 +16,4 @@
         <img src = "https://github-readme-stats.vercel.app/api?username=imaginarymiko&include_all_commits=true&show_icons=true&theme=tokyonight"><br>
     </p>
 </details>
-<a href = "<a href="https://github.com/imaginarymiko/imaginarymiko" target="_blank"><img src="https://img.shields.io/github/last-commit/imaginarymiko/imaginarymiko?label=profile%20updated&style=flat&color=green">
+<a href = "https://github.com/imaginarymiko/imaginarymiko" target="_blank"><img src = "https://img.shields.io/github/last-commit/imaginarymiko/imaginarymiko?label=profile%20updated&style=flat&color=green">
