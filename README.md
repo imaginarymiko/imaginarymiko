@@ -1,7 +1,7 @@
 <h3 align = "center"><samp>Hello!<br>こんにちは！<br>Здравствуйте!</samp></h3>
 <p align = "left"><br>
     <samp>
-        I'm <span style = "color:#65ebf6">Miko</span>, a Pure Mathematics student at the University of Waterloo.<br><br>
+        I'm <span style = "color:#65ebf6">Miko</span>, a Pure Mathematics undergraduate student at the University of Waterloo.<br><br>
     </samp>
     <samp>
         About me:<br>
